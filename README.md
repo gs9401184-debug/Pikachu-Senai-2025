@@ -10,9 +10,9 @@ O projeto foi desenvolvido com foco em layout responsivo, tipografia marcante e 
 
 🧩 Tecnologias utilizadas:
 
-HTML5
+HTML
 
-CSS3
+CSS
 
 Design flat e minimalista inspirado em landing pages modernas
 
