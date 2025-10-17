@@ -115,5 +115,22 @@ a{
 
 /* MOBILE */
 @media (max-width: 480px)  {
+   .descricao h2{
+    font-size: 38px;
+
+    }
+   .descricao p {
+    display: none;
+    
+   }
+    .pikachu{
+    height: 50vh ;
+   }
+   .container a{
+    width: 100%;
+   }
+   .sombra{
+    transform: translate(-50%, -230%);
+   }
    
 }
